@@ -1,8 +1,8 @@
-# 📚 Weekly Research Paper Summariser
+# Academic Research Paper Assistant Application
 
   
 
-Quickly finds latest research paper of user's chosen domain and generates summary according to user's current level of knowledge in **real-time** from publicly available research paper archives [arXiv | Cornell University](https://arxiv.org/).
+Real-Time Research Paper Summary Generator: Quickly retrieves the latest research papers from the user’s chosen domain on publicly available archives like arXiv | Cornell University and generates summaries tailored to the user’s current knowledge level.
 
   
 
@@ -14,11 +14,11 @@ See how the tool works:
 
   
 
-![Weekly Research Paper AI Summariser tool demo](assets/demo.gif)
+![Academic Research Paper Assistant Application demo](assets/demo.gif)
 
   
 
-The arXiv API is used to search latest research paper in user's chosen domain. You can see that the LLM App enables AI-powered summary for current and latest research paper pdfs (i.e. unstructured documents) of various subjects like physics, biology, computer science, etc. and indexes input data in real-time just after files are found and stored on local storage.
+The arXiv API allows you to search for the latest research papers by querying different fields like subject, author, date, etc. You can fetch metadata (such as abstracts, titles, authors) for research papers in structured format.
 
   
 
